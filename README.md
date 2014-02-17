@@ -1,7 +1,7 @@
 Digit Recognition from hand written images using Naive Bayes Classifier. Implemented as part of AI project
 
 
-This code is demonstrated strictly for education purpose only. The original problem is present at the source mentioned in the licensing information below. Certain module of the project is implemented as part of curriculum work in AI. 
+This code is demonstrated strictly for education purpose only. The original problem is present at the source mentioned in the licensing information below. Certain module of the project is implemented as part of curriculum work in AI.  
 
 **********************************************************************************************************
 Licensing Information:
